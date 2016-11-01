@@ -11,6 +11,8 @@ Below you find a very short collection of things I did so far. A long version [c
 - Fall 2013 & Spring 2015: Master I, Biomathematiques (Erasmus), Université Montpellier II (now part of [Université de Montpellier](www.umontpellier.fr))
 - Fall 2011 - Spring 2013: BSc Mathematik mit Anwendungsfach, [Martin-Luther-Universität Halle/Wittenberg](www.uni-halle.de)
 
+You can see a list of all courses I took [here](courses.html).
+
 # Work experierences
 
 - November 2015 - March 2016: Quantitative Developper, [Grundgrün GmbH](www.grundgruen.de)

@@ -3,7 +3,7 @@ layout: default
 title: Maximilian König's CV
 ---
 
-Below you find a very short collection of things I did so far. A long version [can be found here](cv.pdf)
+Below you find a very short collection of things I did so far. A long version [can be found here](https://maxkoe.github.com/cv.pdf)
 
 # Studies
 

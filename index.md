@@ -4,10 +4,9 @@ title: Maximilian König's personal homepage
 ---
 # Welcome to my Homepage
 
-I am a student at [TU Berlin](www.math.tu-berlin.de). 
+I am a student at [TU Berlin](www.math.tu-berlin.de). Currently I am writing my master thesis about the mathematical analysis of [peridynamic theory](http://www.math.tu-berlin.de/fachgebiete_ag_modnumdiff/diffeqs/v_menue/fg_differentialgleichungen/publikationen/artikel_nach_themen/#c427615) with [Prof. Etienne Emmrich](http://www.math.tu-berlin.de/fachgebiete_ag_modnumdiff/diffeqs/v_menue/fg_differentialgleichungen/mitarbeiter/prof_dr_etienne_emmrich/v_menue/home/), which I will have to turn in at the end of December. 
 
-I am currently writing my master thesis about the mathematical analysis of peridynamic theory.  
-Building upon the work of Prof. Etienne Emmrich and Dimitri Puhst, a main part of my work 
+Building upon the work of Prof. Emmrich and Dimitri Puhst, a main part of my work 
 will be the consistent mathematical formulation of the state-based peridynamik theory 
 introduced in the paper 
 [Silling et al, 2007: Peridynamic states and constitutive modeling](http://link.springer.com/article/10.1007/s10659-007-9125-1).

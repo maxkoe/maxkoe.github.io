@@ -14,4 +14,6 @@ Further I try to give a framework for classical and weak solutions for the resul
 The letter is based on the methods developped in the Paper 
 [Emmrich & Puhst, 2015: Measure-valued and weak solutions to the nonlinear peridynamic model in nonlocal elastodynamics](http://stacks.iop.org/0951-7715/28/285).
 
-A first peak at my work you can see in the slides of my talk in the working group seminar: [states.pdf](https://maxkoe.github.com/states.pdf)
+A first peak at my work you can see in the slides of my two talk in the working group seminar: 
+[About states and ideas for classical solutions to the equation](https://maxkoe.github.com/states.pdf) as well as 
+[a primer on the weak theory](https://maxkoe.github.com/states_2.pdf).
